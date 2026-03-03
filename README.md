@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Himanshu 👋
 
-<!--
-**himanshupandey2022/himanshupandey2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Communication Engineer passionate about IT Support, Networking and Software Development.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Networking
+- Linux
+- Hardware Troubleshooting
+- It Support
+- Software Development Life Cycle(SDLC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Any detail go check my LinkdIn profile
+
