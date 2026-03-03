@@ -11,5 +11,5 @@ Electronics & Communication Engineer passionate about IT Support, Networking and
 - Software Development Life Cycle(SDLC)
 
 
-## Any detail go check my LinkdIn profile
+## Any detail please visit my LinkdIn profile
 
